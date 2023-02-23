@@ -1,9 +1,9 @@
 package br.com.sancrisxa.api.resources;
 
-import br.com.dicasdeumdev.api.domain.User;
-import br.com.dicasdeumdev.api.domain.dto.UserDTO;
-import br.com.dicasdeumdev.api.resources.UserResource;
-import br.com.dicasdeumdev.api.services.impl.UserServiceImpl;
+import br.com.sancrisxa.api.domain.User;
+import br.com.sancrisxa.api.domain.dto.UserDTO;
+import br.com.sancrisxa.api.resources.UserResource;
+import br.com.sancrisxa.api.services.impl.UserServiceImpl;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.mockito.InjectMocks;

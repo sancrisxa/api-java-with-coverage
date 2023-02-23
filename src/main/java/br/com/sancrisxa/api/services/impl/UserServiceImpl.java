@@ -1,11 +1,11 @@
-package br.com.dicasdeumdev.api.services.impl;
+package br.com.sancrisxa.api.services.impl;
 
-import br.com.dicasdeumdev.api.domain.User;
-import br.com.dicasdeumdev.api.domain.dto.UserDTO;
-import br.com.dicasdeumdev.api.repositories.UserRepository;
-import br.com.dicasdeumdev.api.services.UserService;
-import br.com.dicasdeumdev.api.services.exceptions.DataIntegratyViolationException;
-import br.com.dicasdeumdev.api.services.exceptions.ObjectNotFoundException;
+import br.com.sancrisxa.api.domain.User;
+import br.com.sancrisxa.api.domain.dto.UserDTO;
+import br.com.sancrisxa.api.repositories.UserRepository;
+import br.com.sancrisxa.api.services.UserService;
+import br.com.sancrisxa.api.services.exceptions.DataIntegratyViolationException;
+import br.com.sancrisxa.api.services.exceptions.ObjectNotFoundException;
 import org.modelmapper.ModelMapper;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

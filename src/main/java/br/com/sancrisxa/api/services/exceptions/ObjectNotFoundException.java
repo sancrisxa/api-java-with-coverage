@@ -1,4 +1,4 @@
-package br.com.dicasdeumdev.api.services.exceptions;
+package br.com.sancrisxa.api.services.exceptions;
 
 public class ObjectNotFoundException extends RuntimeException{
 

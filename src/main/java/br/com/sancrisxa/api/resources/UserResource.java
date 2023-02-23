@@ -1,7 +1,7 @@
-package br.com.dicasdeumdev.api.resources;
+package br.com.sancrisxa.api.resources;
 
-import br.com.dicasdeumdev.api.domain.dto.UserDTO;
-import br.com.dicasdeumdev.api.services.UserService;
+import br.com.sancrisxa.api.domain.dto.UserDTO;
+import br.com.sancrisxa.api.services.UserService;
 import org.modelmapper.ModelMapper;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;

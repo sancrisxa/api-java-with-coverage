@@ -1,7 +1,7 @@
-package br.com.dicasdeumdev.api.services;
+package br.com.sancrisxa.api.services;
 
-import br.com.dicasdeumdev.api.domain.User;
-import br.com.dicasdeumdev.api.domain.dto.UserDTO;
+import br.com.sancrisxa.api.domain.User;
+import br.com.sancrisxa.api.domain.dto.UserDTO;
 
 import java.util.List;
 

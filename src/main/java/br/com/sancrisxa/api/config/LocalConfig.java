@@ -1,7 +1,7 @@
-package br.com.dicasdeumdev.api.config;
+package br.com.sancrisxa.api.config;
 
-import br.com.dicasdeumdev.api.domain.User;
-import br.com.dicasdeumdev.api.repositories.UserRepository;
+import br.com.sancrisxa.api.domain.User;
+import br.com.sancrisxa.api.repositories.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

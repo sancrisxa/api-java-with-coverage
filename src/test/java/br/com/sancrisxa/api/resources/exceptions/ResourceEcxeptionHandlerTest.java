@@ -1,9 +1,7 @@
 package br.com.sancrisxa.api.resources.exceptions;
 
-import br.com.dicasdeumdev.api.resources.exceptions.ResourceEcxeptionHandler;
-import br.com.dicasdeumdev.api.resources.exceptions.StandardError;
-import br.com.dicasdeumdev.api.services.exceptions.DataIntegratyViolationException;
-import br.com.dicasdeumdev.api.services.exceptions.ObjectNotFoundException;
+import br.com.sancrisxa.api.services.exceptions.DataIntegratyViolationException;
+import br.com.sancrisxa.api.services.exceptions.ObjectNotFoundException;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.mockito.InjectMocks;

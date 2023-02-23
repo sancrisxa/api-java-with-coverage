@@ -1,7 +1,7 @@
-package br.com.dicasdeumdev.api.resources.exceptions;
+package br.com.sancrisxa.api.resources.exceptions;
 
-import br.com.dicasdeumdev.api.services.exceptions.DataIntegratyViolationException;
-import br.com.dicasdeumdev.api.services.exceptions.ObjectNotFoundException;
+import br.com.sancrisxa.api.services.exceptions.DataIntegratyViolationException;
+import br.com.sancrisxa.api.services.exceptions.ObjectNotFoundException;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.ControllerAdvice;

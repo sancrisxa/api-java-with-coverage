@@ -1,4 +1,4 @@
-package br.com.dicasdeumdev.api.resources.exceptions;
+package br.com.sancrisxa.api.resources.exceptions;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

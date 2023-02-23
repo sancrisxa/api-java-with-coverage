@@ -1,6 +1,6 @@
-package br.com.dicasdeumdev.api.repositories;
+package br.com.sancrisxa.api.repositories;
 
-import br.com.dicasdeumdev.api.domain.User;
+import br.com.sancrisxa.api.domain.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

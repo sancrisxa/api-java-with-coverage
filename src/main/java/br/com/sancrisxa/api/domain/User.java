@@ -1,4 +1,4 @@
-package br.com.dicasdeumdev.api.domain;
+package br.com.sancrisxa.api.domain;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

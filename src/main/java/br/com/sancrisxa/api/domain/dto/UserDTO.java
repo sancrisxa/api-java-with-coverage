@@ -1,4 +1,4 @@
-package br.com.dicasdeumdev.api.domain.dto;
+package br.com.sancrisxa.api.domain.dto;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 import lombok.AllArgsConstructor;

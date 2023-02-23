@@ -1,4 +1,4 @@
-package br.com.dicasdeumdev.api.config;
+package br.com.sancrisxa.api.config;
 
 import org.modelmapper.ModelMapper;
 import org.springframework.context.annotation.Bean;
